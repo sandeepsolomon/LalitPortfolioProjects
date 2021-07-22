@@ -1,3 +1,5 @@
+--COVID DATA EXPLORATION PROJECT
+
 --select * from CovidVaccinations order by 3,4
 
 select * from CovidDeaths 
